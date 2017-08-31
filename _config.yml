@@ -17,9 +17,9 @@ avatar: images/8-Commercial_Kitchen_A_Chef-512.png
 footer-links:
   dribbble:
   email: xahh@protonmail.com
-  facebook: https://www.facebook.com/jeff.henschel.7
+  facebook: jeff.henschel.7
   flickr:
-  github: barryclark/jekyll-now
+  github: xahh
   instagram:
   linkedin:
   pinterest:
@@ -35,7 +35,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-105705848-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
